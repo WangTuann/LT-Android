@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Máy tính</string>
+    <string name="result">Kết quả</string>
+    <string name="plus">+</string>
+    <string name="Minus">-</string>
+    <string name="Miltiplication">*</string>
+    <string name="Division">/</string>
+    <string name="DivisonRE">%</string>
+
+</resources>
