@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LuyenTap3</string>
+    <string name="txt_name">Trương Quang Tuấn</string>
+    <string name="txt_Phone1">0334502288</string>
+    <string name="txt_title_mobile">Mobile</string>
+    <string name="txt_Phone2">(323) 555-6789</string>
+    <string name="txt_email">1910152@dlu.edu.vn</string>
+</resources>
