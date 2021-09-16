@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">accueli</string>
+    <string name="mail">Email</string>
+    <string name="pass">mot de pass</string>
+    <string name="sign">LOGIN</string>
+    <string name="nonAcc">ne pas avoir de compte? signer</string>
+</resources>
