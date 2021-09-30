@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/drawable/activity_main.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/drawable/btn.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/drawable/btn_bg_selector.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/drawable/btn_bg_selector_disabled.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/drawable/btn_drawable_selector.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/drawable/btn_selector_shape.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/drawable/btn_shape_capsule.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/drawable/btn_shape_gradient.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/drawable/btn_shape_oval.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/drawable/btn_shape_round.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/drawable/btn_txt_selector.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/drawable/custom_toast.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/layout/custom_buttom_toast_dialog.xml" value="0.19375" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/layout/custom_dialog.xml" value="0.209375" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/layout/custom_toast.xml" value="0.19375" />
+        <entry key="..\:/Users/Quang Tuan/Desktop/CustomControl/app/src/main/res/layout/seekbar_layout.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
