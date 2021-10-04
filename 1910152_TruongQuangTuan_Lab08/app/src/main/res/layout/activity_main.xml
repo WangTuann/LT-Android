@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/design_default_color_primary_dark">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chọn bài tập"
+        android:gravity="center"
+        android:textSize="24dp"
+        android:textColor="#EE0000"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_BT1_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HD1"
+        android:gravity="center"
+        android:background="@color/teal_200"
+        android:layout_marginTop="10dp"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_BT3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HD2"
+        android:gravity="center"
+        android:background="@color/teal_200"
+        android:layout_marginTop="10dp"
+        />
+</LinearLayout>
